@@ -1,0 +1,6 @@
+{
+  "name": "Le Miroir Littéraire",
+  "description": "Musée virtuel solennel dédié à l'art de la critique littéraire et à l'exploration de l'identité.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
